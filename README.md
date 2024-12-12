@@ -2,6 +2,8 @@
 Power BI Report
 
 # Credit Card Analysis
+![image](https://github.com/user-attachments/assets/c622671e-0327-4264-9449-b8c080a7c07c)
+![image](https://github.com/user-attachments/assets/566c478d-00fb-49b7-9d6f-a83b75db7377)
 
 Business Problem:
 
